@@ -1,7 +1,8 @@
 package main.java.com.alevel.alevelClassWorks.arraysTypicalProblems.problem1;
 
 import java.util.Scanner;
-
+/*1. Дан массив натуральных чисел.
+Найти сумму элементов, кратных данному K.*/
 public class Problem1 {
     public static void main(String[] args) {
         int[] arr = new int[5];

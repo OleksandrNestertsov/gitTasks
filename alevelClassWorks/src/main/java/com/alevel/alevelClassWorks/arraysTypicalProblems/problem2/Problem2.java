@@ -1,5 +1,6 @@
 package main.java.com.alevel.alevelClassWorks.arraysTypicalProblems.problem2;
-
+/*2. В целочисленной последовательности есть нулевые элементы.
+Создать массив из номеров этих элементов.*/
 public class Problem2 {
     public static void main(String[] args) {
         int[] arr = {1, 2, 0, 3, 6, 4, 0, 8, 0, 6, 9, 0, 45, 0, 6, 3, 0, 0, 45, 0, 6, 0};
