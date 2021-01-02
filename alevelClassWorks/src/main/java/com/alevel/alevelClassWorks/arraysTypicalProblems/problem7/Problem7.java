@@ -19,7 +19,6 @@ public class Problem7 {
         for (int i = 0; i < sequence.length; i++) {
             sequence[i] = sequenceScanner.nextInt();
         }
-        int[] copiedSequence = new int[num];
 
         System.out.println("write a specified number : ");
         Scanner specifiedNumberScanner = new Scanner(System.in);
