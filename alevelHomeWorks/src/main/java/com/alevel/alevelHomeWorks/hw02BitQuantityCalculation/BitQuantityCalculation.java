@@ -1,4 +1,4 @@
-package main.java.com.alevel.alevelHomeWorks.bitQuantityCalculation;
+package main.java.com.alevel.alevelHomeWorks.hw02BitQuantityCalculation;
 
 public class BitQuantityCalculation {
     public static void main(String[] args) {

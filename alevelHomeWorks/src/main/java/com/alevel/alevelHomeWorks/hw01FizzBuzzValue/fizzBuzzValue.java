@@ -1,4 +1,4 @@
-package main.java.com.alevel.alevelHomeWorks.fizzBuzzValue;
+package main.java.com.alevel.alevelHomeWorks.hw01FizzBuzzValue;
 
 public class fizzBuzzValue {
     public static void main(String[] args) {

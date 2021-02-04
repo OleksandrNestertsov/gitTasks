@@ -1,6 +1,4 @@
-package main.java.com.alevel.alevelHomeWorks.transposeMatrix;
-
-import java.util.Arrays;
+package main.java.com.alevel.alevelHomeWorks.hw03TransposeMatrix;
 
 public class TransposeMatrix {
     public static void main(String[] args) {

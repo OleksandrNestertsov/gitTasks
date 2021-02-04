@@ -1,4 +1,4 @@
-package main.java.com.alevel.alevelHomeWorks.fibonacci;
+package main.java.com.alevel.alevelHomeWorks.hw04Fibonacci;
 
 public class Fibonacci {
     public static void main(String[] args) {

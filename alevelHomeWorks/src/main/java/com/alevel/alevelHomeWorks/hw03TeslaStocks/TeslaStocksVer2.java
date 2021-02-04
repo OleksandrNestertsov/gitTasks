@@ -1,4 +1,4 @@
-package main.java.com.alevel.alevelHomeWorks.teslaStocks;
+package main.java.com.alevel.alevelHomeWorks.hw03TeslaStocks;
 
 public class TeslaStocksVer2 {
     public static void main(String[] args) {
