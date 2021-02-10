@@ -22,7 +22,7 @@ public class Group {
         System.out.println();
         System.out.println("the list of all students in group, who studies for contract, with contract cost , UAH : ");
 
-        for (int i = 0; i < students.length; i++) {
+       for (int i = 0; i < students.length; i++) {
             students[i].showInfo();
 
         }
